@@ -1,3 +1,4 @@
+The code contributions of author Elias Crum to the publication DOI: 10.1128/mSphere.00154-21 <br/>
 This repo contains code used to obtain Gardnerella genomes, pull core genes from Gardnerella sequences, and visualize an ANI analysis of the CORE genes.<br/><br/>
 
 
