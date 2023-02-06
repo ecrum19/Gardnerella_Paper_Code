@@ -1,4 +1,4 @@
-This repo contains code used to obtain Gardnerella genomes, pull core genes from Gardnerella sequences, and visualize an ANI analysis of the CORE genes.
+This repo contains code used to obtain Gardnerella genomes, pull core genes from Gardnerella sequences, and visualize an ANI analysis of the CORE genes.<br/><br/>
 
 
 
